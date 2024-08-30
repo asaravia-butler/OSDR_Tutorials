@@ -2,11 +2,11 @@
 
 ## Getting Started with AWS and OSDR Data  
 
-This guide is for new users who want to access and work with the Open Science Data Repository (OSDR) data available on the Registry of Open Data on AWS. As part of the Science Mission Directorate (SMD) Open-Source Science Initiative, this effort aims to enhance data accessibility for open science within the NASA space biology community. Through the OSDR S3 bucket, users can access a diverse range of data including microbe, plant, fruit fly, rodent, human cell culture, ground study, and commercial astronaut studies.  
+This guide is for new users who want to access and work with the Open Science Data Repository (OSDR) data available on the Registry of Open Data on AWS. As part of the Science Mission Directorate (SMD) Open-Source Science Initiative, this effort aims to enhance data accessibility for open science within the NASA space biology community. Through the OSDR S3 bucket, users can access a diverse range of data including microbe, plant, fruit fly, rodent, human cell culture, ground study, and commercial astronaut studies. This guide will walk you through the steps of installing the AWS Command Line Interface (CLI) and utilizing it to access OSDR data.  
 
 ## Introduction to OSDR Data on AWS  
 
-OSDR data is now available on the Registry of Open Data on AWS, providing increased accessibility to open science data across NASA and the space biology community. The OSDR S3 bucket offers a wide range of data types for exploration and analysis.  
+OSDR data is available on the Registry of Open Data on AWS, providing increased accessibility to open science data across NASA and the space biology community. The OSDR S3 bucket offers a wide range of data types for exploration and analysis.  
 
 To get started, you have two primary methods to access and explore OSDR data:  
 
@@ -18,9 +18,9 @@ To get started, you have two primary methods to access and explore OSDR data:
 
 Before you can start working with OSDR data using the AWS CLI, you need to install it on your system. Follow these steps to install the AWS CLI:  
 
-1. Open a terminal window  
-2. Visit the [AWS CLI installation instructions](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) for detailed steps  
-3. Once the AWS CLI is installed, you're ready to start exploring OSDR data programmatically  
+1. Open a terminal window.  
+2. Visit the [AWS CLI installation instructions](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) for detailed steps.  
+3. Once the AWS CLI is installed, you're ready to start exploring OSDR data programmatically.  
 
 ## Exploring OSDR Data  
 

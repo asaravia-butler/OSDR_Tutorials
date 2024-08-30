@@ -1,6 +1,6 @@
 # Navigate an OSDR Study Page
 
-**Single study:** Use the {doc}`accessing_osdr_data` tutorial to navigate to a study of interest.
+**Single study:** Use the {doc}`access_osdr_data` tutorial to navigate to a study of interest.
 
 ```{image} ../../_static/images/osdr_study/osdr-single-study-page.png
 :alt: Single OSD study page

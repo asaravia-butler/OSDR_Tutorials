@@ -487,7 +487,7 @@ With these steps, you can effectively navigate and utilize the GSEA section, gai
 
 ### Ideogram
 
-[Link to read about ideograms](https://en.wikipedia.org/wiki/Ideogram)
+[Link to read about ideograms](https://www.nature.com/scitable/topicpage/chromosome-mapping-idiograms-302/)
 
 Ideograms provide a schematic representation of chromosomes, and they are used to show the relative size of the chromosomes and their characteristic banding patterns.
 

@@ -4,7 +4,7 @@
 
 Go to [https://guest.nasa.gov/](https://guest.nasa.gov/). Sign up to create a new account* with your email address.  
 
-> **\*Note: If you have registered in the OSDR workspace console or submission portal using your Gmail account previously, you will need to register again [here](https://guest.nasa.gov/). Please make sure to use the same Gmail address so you can access your existing studies/files.**
+> ***\*Note: If you have registered in the OSDR workspace console or submission portal using your Gmail account previously, you will need to register again [here](https://guest.nasa.gov/). Please make sure to use the same Gmail address so you can access your existing studies/files.***
 
 ```{image} ../../_static/images/nasa_guest_acct/nasa-guest-account-registration-page.png
 :alt: NASA Guest Account registration page
@@ -33,7 +33,7 @@ Set up an account password. A password must be 12 to 32 characters long and must
 > - *At least one upper case character*  
 > - *At least one lower case character*  
 > - *At least one number*  
-> - *At least one special character (e.g. $, !, #, *, @, %)*  
+> - *At least one special character (e.g. $, !, #, \*, @, %)*  
 
 ## Step 4: Registration Complete  
 
@@ -46,7 +46,7 @@ Registration is complete. **This account is used to access both the OSDR Biologi
 
 ## Step 5: Log In  
 
-Go to the OSDR Biological Data Management Environment (BDME), [https://osdr.nasa.gov/bio/submission-sso-login.html](https://osdr.nasa.gov/bio/submission-sso-login.html) or Workspace, [https://osdr.nasa.gov/bio/workspace-sso-login.html](https://osdr.nasa.gov/bio/workspace-sso-login.html). Click on Log in.  
+Go to the OSDR [Biological Data Management Environment (BDME)](https://osdr.nasa.gov/bio/submission-sso-login.html) or [Workspace](https://osdr.nasa.gov/bio/workspace-sso-login.html). Click on Log in.  
 
 ```{image} ../../_static/images/bdme/bdme-login-page.jpg
 :alt: OSDR BDME login page
@@ -55,7 +55,7 @@ Go to the OSDR Biological Data Management Environment (BDME), [https://osdr.nasa
 
 ## Step 6: LaunchPad Login  
 
-In the Access LaunchPad page, select Agency User ID. Then use your registered email address as the Agency User ID and the password that you just created.  
+In the Access LaunchPad page, select **Agency User ID**. Then use your registered email address as the Agency User ID and the password that you just created.  
 
 ```{image} ../../_static/images/nasa_guest_acct/launchpad-login.png
 :alt: LaunchPad login page
@@ -69,7 +69,7 @@ In the Access LaunchPad page, select Agency User ID. Then use your registered em
 
 ## Step 7: BDME Dashboard  
 
-Once successfully logged in to BDME, you will see the "My Dashboard" landing page. You can now follow the instructions in the Data Submission Guide tutorial to submit your data to OSDR.  
+Once successfully logged in to BDME, you will see the "My Dashboard" landing page. You can now follow the instructions in the {doc}`submit_data_to_osdr` tutorial to submit your data to OSDR.  
 
 ```{image} ../../_static/images/bdme/bdme-dashboard.png
 :alt: BDME Dashboard
@@ -78,7 +78,7 @@ Once successfully logged in to BDME, you will see the "My Dashboard" landing pag
 
 ## Step 8: Access the Workspace  
 
-Once successfully logged in to the workspace, you will see the "Workspace" landing page. You are now able to create folders and upload your files to your workspace. During data submission, you will be able to specify any or all files in your workspace to be uploaded to your study(ies).  
+Once successfully logged in to the workspace, you will see the "Workspace" landing page. You are now able to follow the instructions in the {doc}`use_the_osdr_workspace` to create folders and upload your files to your workspace. During data submission, you will be able to specify any or all files in your workspace to be uploaded to your study(ies).  
 
 ```{image} ../../_static/images/osdr_workspace/osdr-workspace-landing-page.png
 :alt: Workspace landing page
