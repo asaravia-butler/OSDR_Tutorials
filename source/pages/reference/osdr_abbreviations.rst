@@ -21,8 +21,11 @@ This is a valuable site when looking up any NASA-specific acronyms:
    GL
       GeneLab
 
+   OSD
+      Open Science Dataset
+
    GLDS
-      GeneLab Datasets
+      GeneLab DataSets
 
    ALSDA
       Ames Life Sciences Data Archive
@@ -34,7 +37,14 @@ This is a valuable site when looking up any NASA-specific acronyms:
       Research Data Submission Agreement
 
    LSDS
-      Life Science Datasets
+      Life Science DataSets
+
+   DAR
+      Data Access Request
+
+   AWG
+      Analysis Working Group
+
 
 Data Systems Abbreviations
 ==========================
@@ -92,7 +102,7 @@ Sample Abbreviations
       microgravity
 
    HG
-      hypergravity (`HG reference <http://bioportal.bioontology.org/ontologies/MESH?p=classes&conceptid=D018471>`_)
+      hypergravity
 
    1G
       1x gravity
@@ -233,10 +243,10 @@ Sample Abbreviations
       Hippocampus
 
    iBAT
-      Intrascapular Brown Adipose Tissue
+      Interscapular Brown Adipose Tissue
 
    iWAT
-      Inginal White Adipose Tissue
+      Inguinal White Adipose Tissue
 
    KDN
       Kidney

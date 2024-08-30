@@ -38,7 +38,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # Custom Styling
 html_title = project
-html_logo = "_static/images/NASA_GeneLab_logo-2019.png"
+html_logo = "_static/images/OSDR_logos.png"
 html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
     'display_version': False,
@@ -69,7 +69,7 @@ hoverxref_role_types = {
 
 html_context = {
     "display_github": True,
-    "github_user": "torres-alexis",
+    "github_user": "asaravia-butler",
     "github_repo": "OSDR_Tutorials",
     "github_version": "main",
     "conf_py_path": "/source/"
